@@ -8,9 +8,15 @@
       <link href="/2022/06/06/hello-world/"/>
       <url>/2022/06/06/hello-world/</url>
       
-        <content type="html"><![CDATA[<p>hello</p><p>iknow</p>]]></content>
+        <content type="html"><![CDATA[<p>hello</p>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> test </tag>
+            
+        </tags>
       
     </entry>
     
